@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/C++-4C5BD4?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-506070?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-4C5BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-7F86FF?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-7F86FF?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-506070?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-9AA4FF?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Embedded-4C5BD4?style=for-the-badge&logo=raspberrypi&logoColor=white">
