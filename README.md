@@ -3,37 +3,47 @@
   <img src="https://raw.githubusercontent.com/IdanG7/IdanG7/main/banner.png" alt="Idan Gurevich Banner" width="100%">
 </p>
 
-<!-- Title -->
-<h1 align="center">Hi there, I'm Idan Gurevich 👋</h1>
+<h1 align="center">Hi there, I'm Idan 👋</h1>
 <p align="center">
-  <b>Software & Embedded Systems Engineer | DevOps & C++ Enthusiast | Distributed Systems Builder</b>
+  <b>Software & Embedded Systems Engineer — C++ • DevOps • Distributed Systems</b>
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-[![Website](https://img.shields.io/badge/Portfolio-idangurevich.dev-blue?style=flat&logo=google-chrome)](https://idangurevich.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-idangurevich-blue?style=flat&logo=linkedin)](https://linkedin.com/in/idangurevich)
-[![GitHub](https://img.shields.io/badge/GitHub-IdanG7-black?style=flat&logo=github)](https://github.com/IdanG7)
-[![Email](https://img.shields.io/badge/Email-idan.gurevich%40gmail.com-red?style=flat&logo=gmail)](mailto:idan.gurevich@gmail.com)
+<p align="center">
+  <!-- Palette -->
+  <!-- Indigo: 4C5BD4 | Lavender: 7F86FF | Slate: 506070 | Accent: 9AA4FF -->
+  <a href="https://idangurevich.dev">
+    <img src="https://img.shields.io/badge/Portfolio-idangurevich.dev-4C5BD4?style=flat-square&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/idangurevich">
+    <img src="https://img.shields.io/badge/LinkedIn-idangurevich-506070?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/IdanG7">
+    <img src="https://img.shields.io/badge/GitHub-IdanG7-2B2B2B?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:idan.gurevich@gmail.com">
+    <img src="https://img.shields.io/badge/Email-idan.gurevich%40gmail.com-7F86FF?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ### 🧠 Technical Focus
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-6DB33F?style=flat&logo=raspberrypi&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-4C5BD4?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-506070?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-4C5BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-7F86FF?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-506070?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-9AA4FF?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded-4C5BD4?style=for-the-badge&logo=raspberrypi&logoColor=white">
+</p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 #### 🔹 [AeroForge](https://github.com/IdanG7/AeroForge)
 > Vision-based drone control framework for real-time object tracking, 3D pose estimation, and flight control.  
 > *C++20 · OpenCV · PhysX · YAML · Embedded Linux*
@@ -44,14 +54,18 @@
 
 ---
 
-### ⚙️ GitHub Stats & Activity
+### ⚙️ GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IdanG7&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=IdanG7&theme=tokyonight" />
+  <!-- Transparent cards with custom brand colors -->
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=IdanG7&show_icons=true&theme=transparent&hide_border=true&title_color=4C5BD4&text_color=506070&icon_color=7F86FF&ring_color=7F86FF&border_radius=12" />
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=IdanG7&theme=transparent&hide_border=true&ring=7F86FF&fire=4C5BD4&currStreakLabel=4C5BD4&sideNums=506070&sideLabels=506070&dates=8C92B3&border_radius=12" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdanG7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdanG7&layout=compact&theme=transparent&hide_border=true&title_color=4C5BD4&text_color=506070&border_radius=12" />
 </p>
 
 ---
@@ -61,7 +75,6 @@ I love designing modular architectures that blur the line between **hardware and
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  <i>Built with ❤️ using Markdown, Shields.io, and GitHub Readme Stats.</i>
+  <i>i like hardware :).</i>
 </p>
