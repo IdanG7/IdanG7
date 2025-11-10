@@ -52,6 +52,10 @@
 > Distributed multiplayer backend with scalable matchmaking and game services.  
 > *C++17 · Python · Docker · FastAPI · PostgreSQL · Kubernetes*
 
+#### 🔹 [InfraMind](https://github.com/IdanG7/InfraMind)
+> ML-assisted CI/CD platform that analyzes historical runs to cut build times, auto-route jobs, and coordinate deployments at scale.
+>Python · TypeScript · Docker · Kubernetes · Jenkins · GitHub Actions · OIDC
+
 ---
 
 ### ⚙️ GitHub Stats
