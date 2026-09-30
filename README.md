@@ -14,9 +14,6 @@
 <p align="center">
   <!-- Palette -->
   <!-- Indigo: 4C5BD4 | Lavender: 7F86FF | Slate: 506070 | Accent: 9AA4FF -->
-  <a href="https://idangurevich.dev">
-    <img src="https://img.shields.io/badge/Portfolio-idangurevich.dev-4C5BD4?style=flat-square&logo=google-chrome&logoColor=white">
-  </a>
   <a href="https://linkedin.com/in/idangurevich">
     <img src="https://img.shields.io/badge/LinkedIn-idangurevich-506070?style=flat-square&logo=linkedin&logoColor=white">
   </a>
